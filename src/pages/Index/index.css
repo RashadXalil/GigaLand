@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#hero-section {
+  width: 100%;
+  background-image: url(http://gigaland.on3-step.com/img/bg-shape-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hero__section__image{
+    width: 100%;
+}
+.hero__section__row{
+    align-items: center;
+    padding: 100px 0;
+}
